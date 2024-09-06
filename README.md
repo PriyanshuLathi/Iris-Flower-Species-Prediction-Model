@@ -14,7 +14,7 @@ The dataset consists of 150 samples, with each sample containing four features:
 
 Each sample is labeled with one of three target classes representing the species of the iris flower.
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/08294565-6d81-4e32-bf32-2f8cfc3194d6" alt="USA house price prediction" width = 1000 /> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/08294565-6d81-4e32-bf32-2f8cfc3194d6" alt="Iris Flower species model" width = 1000 /> </p>
 
 ## Methodology
 
@@ -38,7 +38,7 @@ The following steps were taken to develop the SVM model:
 
 **Accuracy**: The model achieved an overall accuracy of **98%**, correctly classifying 98% of the test samples.
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/6682e1cd-a50c-422c-a447-cc05ece5d0f0" alt="USA house price prediction" width = 1000 /> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/6682e1cd-a50c-422c-a447-cc05ece5d0f0" alt="Iris Flower species model" width = 1000 /> </p>
 
 ## Future Scope
 
